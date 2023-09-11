@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>493617802271-j7suj3qfhmmef6iik3lulp8hq4tb18u7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.493617802271-j7suj3qfhmmef6iik3lulp8hq4tb18u7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCDzKSRtQocbiFMOnxYxecCifF3D_3xtww</string>
+	<key>GCM_SENDER_ID</key>
+	<string>493617802271</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.midouz.timelessLoveApp</string>
+	<key>PROJECT_ID</key>
+	<string>timeless-love-54039</string>
+	<key>STORAGE_BUCKET</key>
+	<string>timeless-love-54039.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:493617802271:ios:4402b8692ee6dd81fb792a</string>
+</dict>
+</plist>

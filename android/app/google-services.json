@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "493617802271",
+    "project_id": "timeless-love-54039",
+    "storage_bucket": "timeless-love-54039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493617802271:android:49b04b909ff45321fb792a",
+        "android_client_info": {
+          "package_name": "com.midouz.timeless_love_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493617802271-lu3li7ln15tn2qn43p2isrnivodhtujq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP3e9CLZ9Q7cZh0L0yzAjG-OxNe6Hm7lo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493617802271-b4ajlt4amb9c9umeo10n6s0rge7l2dns.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "493617802271-j7suj3qfhmmef6iik3lulp8hq4tb18u7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.midouz.timelessLoveApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
