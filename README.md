@@ -1,6 +1,6 @@
 # timeless_love_app
 
-A new Flutter project.
+A Flutter project for couple to store dating information
 
 ## Setup
   ##### Clone the repository
