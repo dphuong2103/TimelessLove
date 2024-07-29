@@ -98,7 +98,6 @@ class _HomeScreenWidgetTreeState extends State<HomeScreenWidgetTree> {
               },
             );
         }
-
         return StreamBuilder<Relationship?>(
           stream: _getRelationshipStream,
           builder: (context, snapshot) {
